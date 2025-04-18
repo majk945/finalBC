@@ -1,0 +1,61 @@
+==============================================================
+                    ZOZNAM ZORADENÝCH PRODUKTOV                
+==============================================================
+ID    | Názov                               | Kategória       | Podkategória         | Cena (EUR) | Sklad 
+==========================================================================================
+3     | LED záhradné svietidlo 3W           | Svietidla       | Svietidla Exterierove | 24.50    | 63     ks
+
+   Dodatočné informácie:
+     - energyClass    : G
+     - colorTemperature: Biela
+     - lumen          : 170
+     - ledTechnology  : Ano
+     - voltage        : 264
+------------------------------------------------------------------------------------------
+2     | Zápustné svietidlo Randy            | Svietidla       | Svietidla Interierove | 25.99    | 39     ks
+
+   Dodatočné informácie:
+     - energyClass    : F
+     - colorTemperature: Biela
+     - lumen          : 240
+     - ledTechnology  : Ano
+     - voltage        : 230
+------------------------------------------------------------------------------------------
+5     | LED Núdzové svietidlo NESSI 3W      | Svietidla       | Svietidla Priemyselne | 23.80    | 30     ks
+
+   Dodatočné informácie:
+     - energyClass    : C
+     - colorTemperature: Studena Biela
+     - lumen          : 150
+     - ledTechnology  : Ano
+     - voltage        : 220
+------------------------------------------------------------------------------------------
+1     | Moderné zápustné svietidlo Lite     | Svietidla       | Svietidla Interierove | 27.50    | 22     ks
+
+   Dodatočné informácie:
+     - energyClass    : F
+     - colorTemperature: Tepla Biela
+     - lumen          : 240
+     - ledTechnology  : Ano
+     - voltage        : 230
+------------------------------------------------------------------------------------------
+11    | Lampa LED tycova                    | Svietidla       | Svietidla Domace     | 29.00    | 12     ks
+------------------------------------------------------------------------------------------
+4     | Nájazdové svietidlo ATTILA Square   | Svietidla       | Svietidla Exterierove | 27.69    | 7      ks
+
+   Dodatočné informácie:
+     - energyClass    : F
+     - colorTemperature: Tepla Biela
+     - lumen          : 130
+     - ledTechnology  : Ano
+     - voltage        : 230
+------------------------------------------------------------------------------------------
+6     | LED Núdzové svietidlo CESSI 3W      | Svietidla       | Svietidla Priemyselne | 43.84    | 2      ks
+
+   Dodatočné informácie:
+     - energyClass    : A
+     - colorTemperature: Studena Biela
+     - lumen          : 130
+     - ledTechnology  : Ano
+     - voltage        : 30
+------------------------------------------------------------------------------------------

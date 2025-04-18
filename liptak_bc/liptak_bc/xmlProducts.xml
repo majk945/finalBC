@@ -1,0 +1,776 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+    <id>1</id>
+    <name>Moderné zápustné svietidlo Lite</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Interierove</subcategory>
+    <price>27.5</price>
+    <stock>22</stock>
+    <sold_2023>30</sold_2023>
+    <sold_2024>28</sold_2024>
+    <sold>58</sold>
+    <additional_information>
+      <energyClass>F</energyClass>
+      <colorTemperature>Tepla Biela</colorTemperature>
+      <lumen>240</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Elegantné LED svietidlo Lux</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Interierove</subcategory>
+    <price>32.0</price>
+    <stock>18</stock>
+    <sold_2023>20</sold_2023>
+    <sold_2024>22</sold_2024>
+    <sold>42</sold>
+    <additional_information>
+      <energyClass>E</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>300</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>3</id>
+    <name>Stropné svietidlo Nova</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Interierove</subcategory>
+    <price>45.9</price>
+    <stock>10</stock>
+    <sold_2023>15</sold_2023>
+    <sold_2024>20</sold_2024>
+    <sold>35</sold>
+    <additional_information>
+      <energyClass>D</energyClass>
+      <colorTemperature>Neutralna Biela</colorTemperature>
+      <lumen>500</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>4</id>
+    <name>Minimalistické bodové svietidlo</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Interierove</subcategory>
+    <price>20.5</price>
+    <stock>30</stock>
+    <sold_2023>32</sold_2023>
+    <sold_2024>35</sold_2024>
+    <sold>67</sold>
+    <additional_information>
+      <energyClass>G</energyClass>
+      <colorTemperature>Tepla Biela</colorTemperature>
+      <lumen>180</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>5</id>
+    <name>Smart LED panel</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Interierove</subcategory>
+    <price>58.0</price>
+    <stock>15</stock>
+    <sold_2023>10</sold_2023>
+    <sold_2024>12</sold_2024>
+    <sold>22</sold>
+    <additional_information>
+      <energyClass>C</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>800</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>6</id>
+    <name>Klasické lustrové svietidlo</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Interierove</subcategory>
+    <price>75.0</price>
+    <stock>8</stock>
+    <sold_2023>8</sold_2023>
+    <sold_2024>11</sold_2024>
+    <sold>19</sold>
+    <additional_information>
+      <energyClass>D</energyClass>
+      <colorTemperature>Neutralna Biela</colorTemperature>
+      <lumen>600</lumen>
+      <ledTechnology>Nie</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>7</id>
+    <name>Moderné závesné svietidlo</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Interierove</subcategory>
+    <price>63.5</price>
+    <stock>12</stock>
+    <sold_2023>18</sold_2023>
+    <sold_2024>15</sold_2024>
+    <sold>33</sold>
+    <additional_information>
+      <energyClass>E</energyClass>
+      <colorTemperature>Tepla Biela</colorTemperature>
+      <lumen>450</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>8</id>
+    <name>Smart LED bodové svietidlo</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Interierove</subcategory>
+    <price>34.0</price>
+    <stock>20</stock>
+    <sold_2023>20</sold_2023>
+    <sold_2024>35</sold_2024>
+    <sold>55</sold>
+    <additional_information>
+      <energyClass>F</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>250</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>9</id>
+    <name>Solárne LED svietidlo Eco</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Exterierove</subcategory>
+    <price>40.0</price>
+    <stock>25</stock>
+    <sold_2023>25</sold_2023>
+    <sold_2024>25</sold_2024>
+    <sold>50</sold>
+    <additional_information>
+      <energyClass>A</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>600</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>12</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>10</id>
+    <name>Nástenné vonkajšie svietidlo Storm</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Exterierove</subcategory>
+    <price>55.5</price>
+    <stock>18</stock>
+    <sold_2023>20</sold_2023>
+    <sold_2024>25</sold_2024>
+    <sold>45</sold>
+    <additional_information>
+      <energyClass>B</energyClass>
+      <colorTemperature>Tepla Biela</colorTemperature>
+      <lumen>750</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>11</id>
+    <name>Smart vonkajšie LED reflektor</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Exterierove</subcategory>
+    <price>70.0</price>
+    <stock>12</stock>
+    <sold_2023>20</sold_2023>
+    <sold_2024>18</sold_2024>
+    <sold>38</sold>
+    <additional_information>
+      <energyClass>A+</energyClass>
+      <colorTemperature>Neutralna Biela</colorTemperature>
+      <lumen>1000</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>24</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>12</id>
+    <name>Záhradné solárne svetlo Garden</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Exterierove</subcategory>
+    <price>25.0</price>
+    <stock>40</stock>
+    <sold_2023>30</sold_2023>
+    <sold_2024>30</sold_2024>
+    <sold>60</sold>
+    <additional_information>
+      <energyClass>A</energyClass>
+      <colorTemperature>Tepla Biela</colorTemperature>
+      <lumen>300</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>6</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>13</id>
+    <name>Profesionálne LED pouličné svietidlo</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Exterierove</subcategory>
+    <price>120.0</price>
+    <stock>5</stock>
+    <sold_2023>10</sold_2023>
+    <sold_2024>10</sold_2024>
+    <sold>20</sold>
+    <additional_information>
+      <energyClass>A++</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>2000</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>14</id>
+    <name>Moderné stĺpové svietidlo Pathway</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Exterierove</subcategory>
+    <price>80.0</price>
+    <stock>10</stock>
+    <sold_2023>12</sold_2023>
+    <sold_2024>18</sold_2024>
+    <sold>30</sold>
+    <additional_information>
+      <energyClass>B</energyClass>
+      <colorTemperature>Neutralna Biela</colorTemperature>
+      <lumen>900</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>15</id>
+    <name>Rustikálne vonkajšie svietidlo Classic</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Exterierove</subcategory>
+    <price>65.5</price>
+    <stock>14</stock>
+    <sold_2023>15</sold_2023>
+    <sold_2024>12</sold_2024>
+    <sold>27</sold>
+    <additional_information>
+      <energyClass>C</energyClass>
+      <colorTemperature>Tepla Biela</colorTemperature>
+      <lumen>600</lumen>
+      <ledTechnology>Nie</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>16</id>
+    <name>Vonkajšie LED svietidlo MotionSense</name>
+    <category>Svietidla</category>
+    <subcategory>Svietidla Exterierove</subcategory>
+    <price>90.0</price>
+    <stock>8</stock>
+    <sold_2023>15</sold_2023>
+    <sold_2024>20</sold_2024>
+    <sold>35</sold>
+    <additional_information>
+      <energyClass>A</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>1200</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>17</id>
+    <name>Priemyselné LED svietidlo ProLine</name>
+    <category>Svietidla</category>
+    <subcategory>Priemyselné</subcategory>
+    <price>150.0</price>
+    <stock>10</stock>
+    <sold_2023>20</sold_2023>
+    <sold_2024>25</sold_2024>
+    <sold>45</sold>
+    <additional_information>
+      <energyClass>A+</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>5000</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>18</id>
+    <name>Priemyselný LED panel UltraBright</name>
+    <category>Svietidla</category>
+    <subcategory>Priemyselné</subcategory>
+    <price>130.0</price>
+    <stock>12</stock>
+    <sold_2023>10</sold_2023>
+    <sold_2024>20</sold_2024>
+    <sold>30</sold>
+    <additional_information>
+      <energyClass>A</energyClass>
+      <colorTemperature>Neutralna Biela</colorTemperature>
+      <lumen>4500</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>19</id>
+    <name>LED priemyselný reflektor HighBeam</name>
+    <category>Svietidla</category>
+    <subcategory>Priemyselné</subcategory>
+    <price>175.0</price>
+    <stock>8</stock>
+    <sold_2023>12</sold_2023>
+    <sold_2024>8</sold_2024>
+    <sold>20</sold>
+    <additional_information>
+      <energyClass>A++</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>6000</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>20</id>
+    <name>Priemyselný LED reflektor PowerMax</name>
+    <category>Svietidla</category>
+    <subcategory>Priemyselné</subcategory>
+    <price>160.0</price>
+    <stock>10</stock>
+    <sold_2023>20</sold_2023>
+    <sold_2024>30</sold_2024>
+    <sold>50</sold>
+    <additional_information>
+      <energyClass>A+</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>5500</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>21</id>
+    <name>Priemyselný LED panel BrightEdge</name>
+    <category>Svietidla</category>
+    <subcategory>Priemyselné</subcategory>
+    <price>140.0</price>
+    <stock>14</stock>
+    <sold_2023>35</sold_2023>
+    <sold_2024>25</sold_2024>
+    <sold>60</sold>
+    <additional_information>
+      <energyClass>A</energyClass>
+      <colorTemperature>Neutralna Biela</colorTemperature>
+      <lumen>4800</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>22</id>
+    <name>Priemyselný LED stropný svetlomet</name>
+    <category>Svietidla</category>
+    <subcategory>Priemyselné</subcategory>
+    <price>190.0</price>
+    <stock>6</stock>
+    <sold_2023>10</sold_2023>
+    <sold_2024>12</sold_2024>
+    <sold>22</sold>
+    <additional_information>
+      <energyClass>A++</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>6500</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>23</id>
+    <name>LED priemyselný panel SlimTech</name>
+    <category>Svietidla</category>
+    <subcategory>Priemyselné</subcategory>
+    <price>125.0</price>
+    <stock>15</stock>
+    <sold_2023>18</sold_2023>
+    <sold_2024>22</sold_2024>
+    <sold>40</sold>
+    <additional_information>
+      <energyClass>A</energyClass>
+      <colorTemperature>Neutralna Biela</colorTemperature>
+      <lumen>4000</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+	  <product>
+    <id>25</id>
+    <name>Priemyselný LED reflektor MegaBeam</name>
+    <category>Svietidla</category>
+    <subcategory>Priemyselné</subcategory>
+    <price>200.0</price>
+    <stock>5</stock>
+    <sold_2023>5</sold_2023>
+    <sold_2024>7</sold_2024>
+    <sold>12</sold>
+    <additional_information>
+      <energyClass>A++</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>7000</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>26</id>
+    <name>Priemyselný LED stropný svetlomet PowerLight</name>
+    <category>Svietidla</category>
+    <subcategory>Priemyselné</subcategory>
+    <price>210.0</price>
+    <stock>7</stock>
+    <sold_2023>10</sold_2023>
+    <sold_2024>8</sold_2024>
+    <sold>18</sold>
+    <additional_information>
+      <energyClass>A+</energyClass>
+      <colorTemperature>Studena Biela</colorTemperature>
+      <lumen>7500</lumen>
+      <ledTechnology>Ano</ledTechnology>
+      <voltage>230</voltage>
+    </additional_information>
+  </product>
+  <product>
+    <id>27</id>
+    <name>Istic - 286519</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Istice</subcategory>
+    <price>3.22</price>
+    <stock>128</stock>
+    <sold_2023>50</sold_2023>
+    <sold_2024>30</sold_2024>
+    <sold>80</sold>
+    <additional_information>
+      <skratova_odolnost>6kA</skratova_odolnost>
+      <menovity_prud>10A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>1</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>28</id>
+    <name>Istic - 286520</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Istice</subcategory>
+    <price>4.10</price>
+    <stock>110</stock>
+    <sold_2023>45</sold_2023>
+    <sold_2024>55</sold_2024>
+    <sold>100</sold>
+    <additional_information>
+      <skratova_odolnost>6kA</skratova_odolnost>
+      <menovity_prud>16A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>2</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>29</id>
+    <name>Istic - 286521</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Istice</subcategory>
+    <price>5.50</price>
+    <stock>95</stock>
+    <sold_2023>30</sold_2023>
+    <sold_2024>40</sold_2024>
+    <sold>70</sold>
+    <additional_information>
+      <skratova_odolnost>10kA</skratova_odolnost>
+      <menovity_prud>20A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>1</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>30</id>
+    <name>Istic - 286522</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Istice</subcategory>
+    <price>6.00</price>
+    <stock>120</stock>
+    <sold_2023>40</sold_2023>
+    <sold_2024>60</sold_2024>
+    <sold>100</sold>
+    <additional_information>
+      <skratova_odolnost>10kA</skratova_odolnost>
+      <menovity_prud>25A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>1</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>31</id>
+    <name>Istic - 286523</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Istice</subcategory>
+    <price>4.80</price>
+    <stock>100</stock>
+    <sold_2023>35</sold_2023>
+    <sold_2024>45</sold_2024>
+    <sold>80</sold>
+    <additional_information>
+      <skratova_odolnost>6kA</skratova_odolnost>
+      <menovity_prud>32A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>2</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>32</id>
+    <name>Istic - 286524</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Istice</subcategory>
+    <price>7.20</price>
+    <stock>85</stock>
+    <sold_2023>25</sold_2023>
+    <sold_2024>35</sold_2024>
+    <sold>60</sold>
+    <additional_information>
+      <skratova_odolnost>10kA</skratova_odolnost>
+      <menovity_prud>40A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>2</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>33</id>
+    <name>Istic - 286525</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Istice</subcategory>
+    <price>8.50</price>
+    <stock>75</stock>
+    <sold_2023>30</sold_2023>
+    <sold_2024>45</sold_2024>
+    <sold>75</sold>
+    <additional_information>
+      <skratova_odolnost>12kA</skratova_odolnost>
+      <menovity_prud>50A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>3</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>34</id>
+    <name>Istic - 286526</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Istice</subcategory>
+    <price>9.00</price>
+    <stock>60</stock>
+    <sold_2023>25</sold_2023>
+    <sold_2024>35</sold_2024>
+    <sold>60</sold>
+    <additional_information>
+      <skratova_odolnost>12kA</skratova_odolnost>
+      <menovity_prud>63A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>3</pocet_polov>
+    </additional_information>
+  </product>
+	  <product>
+    <id>35</id>
+    <name>Istic - 286527</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Istice</subcategory>
+    <price>10.00</price>
+    <stock>50</stock>
+    <sold_2023>20</sold_2023>
+    <sold_2024>15</sold_2024>
+    <sold>35</sold>
+    <additional_information>
+      <skratova_odolnost>15kA</skratova_odolnost>
+      <menovity_prud>80A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>4</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>36</id>
+    <name>Istic - 286528</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Istice</subcategory>
+    <price>12.50</price>
+    <stock>45</stock>
+    <sold_2023>18</sold_2023>
+    <sold_2024>27</sold_2024>
+    <sold>45</sold>
+    <additional_information>
+      <skratova_odolnost>15kA</skratova_odolnost>
+      <menovity_prud>100A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>4</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>37</id>
+    <name>Prudovy chranic s isticom - 286529</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Prudovy chranic s isticom</subcategory>
+    <price>15.50</price>
+    <stock>100</stock>
+    <sold_2023>22</sold_2023>
+    <sold_2024>30</sold_2024>
+    <sold>52</sold>
+    <additional_information>
+      <skratova_odolnost>6kA</skratova_odolnost>
+      <menovity_prud>10A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>2</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>38</id>
+    <name>Prudovy chranic s isticom - 286530</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Prudovy chranic s isticom</subcategory>
+    <price>16.00</price>
+    <stock>95</stock>
+    <sold_2023>25</sold_2023>
+    <sold_2024>35</sold_2024>
+    <sold>60</sold>
+    <additional_information>
+      <skratova_odolnost>6kA</skratova_odolnost>
+      <menovity_prud>16A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>2</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>39</id>
+    <name>Prudovy chranic s isticom - 286531</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Prudovy chranic s isticom</subcategory>
+    <price>18.50</price>
+    <stock>90</stock>
+    <sold_2023>20</sold_2023>
+    <sold_2024>25</sold_2024>
+    <sold>45</sold>
+    <additional_information>
+      <skratova_odolnost>10kA</skratova_odolnost>
+      <menovity_prud>20A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>2</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>40</id>
+    <name>Prudovy chranic s isticom - 286532</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Prudovy chranic s isticom</subcategory>
+    <price>19.00</price>
+    <stock>85</stock>
+    <sold_2023>22</sold_2023>
+    <sold_2024>28</sold_2024>
+    <sold>50</sold>
+    <additional_information>
+      <skratova_odolnost>10kA</skratova_odolnost>
+      <menovity_prud>25A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>2</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>41</id>
+    <name>Prudovy chranic s isticom - 286533</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Prudovy chranic s isticom</subcategory>
+    <price>20.50</price>
+    <stock>80</stock>
+    <sold_2023>18</sold_2023>
+    <sold_2024>24</sold_2024>
+    <sold>42</sold>
+    <additional_information>
+      <skratova_odolnost>10kA</skratova_odolnost>
+      <menovity_prud>32A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>3</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>42</id>
+    <name>Prudovy chranic s isticom - 286534</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Prudovy chranic s isticom</subcategory>
+    <price>22.00</price>
+    <stock>70</stock>
+    <sold_2023>20</sold_2023>
+    <sold_2024>25</sold_2024>
+    <sold>45</sold>
+    <additional_information>
+      <skratova_odolnost>12kA</skratova_odolnost>
+      <menovity_prud>40A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>3</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>43</id>
+    <name>Prudovy chranic s isticom - 286535</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Prudovy chranic s isticom</subcategory>
+    <price>24.00</price>
+    <stock>65</stock>
+    <sold_2023>22</sold_2023>
+    <sold_2024>28</sold_2024>
+    <sold>50</sold>
+    <additional_information>
+      <skratova_odolnost>12kA</skratova_odolnost>
+      <menovity_prud>50A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>3</pocet_polov>
+    </additional_information>
+  </product>
+  <product>
+    <id>44</id>
+    <name>Prudovy chranic s isticom - 286536</name>
+    <category>Modularne pristroje</category>
+    <subcategory>Prudovy chranic s isticom</subcategory>
+    <price>26.00</price>
+    <stock>60</stock>
+    <sold_2023>25</sold_2023>
+    <sold_2024>30</sold_2024>
+    <sold>55</sold>
+    <additional_information>
+      <skratova_odolnost>15kA</skratova_odolnost>
+      <menovity_prud>63A</menovity_prud>
+      <stupen_krytia_IP>IP20</stupen_krytia_IP>
+      <pocet_polov>3</pocet_polov>
+    </additional_information>
+  </product>
+	<product>
+		<id>46</id>
+		<name>Prudovy chranic s isticom - 286538</name>
+		<category>Modularne pristroje</category>
+		<subcategory>Prudovy chranic s isticom</subcategory>
+		<price>32.50</price>
+		<stock>45</stock>
+		<sold_2023>34</sold_2023>
+        <sold_2024>12</sold_2024>
+		<sold>46</sold>
+		<additional_information>
+			<skratova_odolnost>15kA</skratova_odolnost>
+			<menovity_prud>100A</menovity_prud>
+			<stupen_krytia_IP>IP20</stupen_krytia_IP>
+			<pocet_polov>4</pocet_polov>
+		</additional_information>
+	</product>
+</products>
