@@ -380,7 +380,6 @@ namespace liptak_bc
             string sortChoice = Console.ReadLine();
 
             List<Product> productsToSort;
-            List<string> criteria = new List<string>();
 
             if (sortChoice == "2")
             {
@@ -397,6 +396,59 @@ namespace liptak_bc
                 }
 
                 DisplaySearchResults(productsToSort);
+
+                // Adding additional sorting based on additional information
+                Console.WriteLine("\nZvoľte kritériá triedenia podľa dodatočných informácií:");
+                var sampleProduct = productsToSort.FirstOrDefault();
+                if (sampleProduct != null)
+                {
+                    foreach (var info in sampleProduct.GetAdditionalInfo().Keys)
+                    {
+                        Console.WriteLine($"Kritérium: {info}");
+                    }
+                }
+
+                Console.WriteLine("Zadajte názov kritéria (napr. Lumen):");
+                string criterionKey = Console.ReadLine().Trim();
+
+                if (sampleProduct != null && sampleProduct.GetAdditionalInfo().ContainsKey(criterionKey))
+                {
+                    bool ascending = true;
+                    Console.WriteLine("Chcete triediť vzostupne (v) alebo zostupne (z)?");
+                    string orderChoice = Console.ReadLine().Trim().ToLower();
+                    ascending = orderChoice == "v";
+
+                    Comparison<Product> comparison = (p1, p2) =>
+                    {
+                        if (p1.GetAdditionalInfo().ContainsKey(criterionKey) && p2.GetAdditionalInfo().ContainsKey(criterionKey))
+                        {
+                            string val1 = p1.GetAdditionalInfo()[criterionKey];
+                            string val2 = p2.GetAdditionalInfo()[criterionKey];
+
+                            int result;
+                            if (double.TryParse(val1, out double num1) && double.TryParse(val2, out double num2))
+                            {
+                                result = num1.CompareTo(num2);
+                            }
+                            else
+                            {
+                                result = string.Compare(val1, val2, StringComparison.OrdinalIgnoreCase);
+                            }
+
+                            return ascending ? result : -result;
+                        }
+                        return 0;
+                    };
+
+                    InsertionSort(productsToSort, comparison);
+                }
+                else
+                {
+                    Console.WriteLine("\nKritérium nebolo nájdené, skúste znova.");
+                    Console.WriteLine("\nStlačte ENTER pre pokračovanie");
+                    Console.ReadLine();
+                    return;
+                }
             }
             else if (sortChoice == "3")
             {
@@ -454,14 +506,6 @@ namespace liptak_bc
                             {
                                 result = num1.CompareTo(num2);
                             }
-                            else if (TryExtractNumber(val1, out num1) && TryExtractNumber(val2, out num2))
-                            {
-                                result = num1.CompareTo(num2);
-                            }
-                            else if (criterionKey.Equals("energyClass", StringComparison.OrdinalIgnoreCase))
-                            {
-                                result = CompareEnergyClass(val1, val2);
-                            }
                             else
                             {
                                 result = string.Compare(val1, val2, StringComparison.OrdinalIgnoreCase);
@@ -499,7 +543,7 @@ namespace liptak_bc
                 Console.WriteLine("Zadajte cislo a hodnotu (napr. 1z,3v,5z):");
 
                 string choice = Console.ReadLine();
-                criteria = choice.Split(',').Select(c => c.Trim()).ToList();
+                var criteria = choice.Split(',').Select(c => c.Trim()).ToList();
 
                 Comparison<Product> comparison = (p1, p2) =>
                 {
@@ -554,30 +598,11 @@ namespace liptak_bc
                 InsertionSort(productsToSort, comparison);
             }
 
+            // Display sorted results
             Console.Clear();
             Console.WriteLine("\n===========================");
             Console.WriteLine("        VÝSLEDOK TRIEDENIA        ");
             Console.WriteLine("===========================\n");
-
-            if (sortChoice == "2")
-            {
-                Console.WriteLine("Usporiadane zo špecifických produktov:");
-            }
-            else if (sortChoice == "3")
-            {
-                Console.WriteLine("Usporiadane podľa dodatočných informácií:");
-            }
-            else
-            {
-                Console.WriteLine("Usporiadane zo všetkých produktov:");
-            }
-
-            foreach (var criterion in criteria)
-            {
-                string criterionKey = criterion.Substring(0, criterion.Length - 1);
-                string order = criterion.EndsWith("z") ? "zostupne" : "vzostupne";
-                Console.WriteLine($"Podľa {criterionKey} ({order})");
-            }
 
             DisplaySortedProducts(productsToSort);
 

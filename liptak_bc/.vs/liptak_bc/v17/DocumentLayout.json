@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\",
+  "WorkspaceRootPath": "C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|c:\\users\\majk\\desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|c:\\users\\majk\\desktop\\finalbc\\liptak_bc\\liptak_bc\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|solutionrelative:liptak_bc\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|solutionrelative:liptak_bc\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|solutionrelative:liptak_bc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\xmlproducts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\xmlproducts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|solutionrelative:liptak_bc\\xmlproducts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413D2B65-C7FC-4263-944D-4B11F44A3D23}|liptak_bc\\liptak_bc.csproj|solutionrelative:liptak_bc\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,10 +36,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "liptak_bc\\ClassDiagram1.cd",
               "ToolTip": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\ClassDiagram1.cd*",
-              "RelativeToolTip": "liptak_bc\\ClassDiagram1.cd*",
+              "RelativeToolTip": "..\\..\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\ClassDiagram1.cd*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
               "WhenOpened": "2025-03-19T16:40:57.485Z"
             },
@@ -47,9 +47,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\Product.cs",
               "RelativeDocumentMoniker": "liptak_bc\\Product.cs",
-              "ToolTip": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\Product.cs",
+              "ToolTip": "C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\Product.cs",
               "RelativeToolTip": "liptak_bc\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,11 +59,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Application.cs",
-              "DocumentMoniker": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\Application.cs",
+              "DocumentMoniker": "C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\Application.cs",
               "RelativeDocumentMoniker": "liptak_bc\\Application.cs",
-              "ToolTip": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\Application.cs",
+              "ToolTip": "C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\Application.cs",
               "RelativeToolTip": "liptak_bc\\Application.cs",
-              "ViewState": "AQIAANEEAAAAAAAAAIA3wMcEAAAJAAAA",
+              "ViewState": "AQIAAPoEAAAAAAAAAAAAwB4FAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T14:02:37.52Z",
               "EditorCaption": ""
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\Program.cs",
               "RelativeDocumentMoniker": "liptak_bc\\Program.cs",
-              "ToolTip": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\Program.cs",
+              "ToolTip": "C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\Program.cs",
               "RelativeToolTip": "liptak_bc\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "xmlProducts.xml",
-              "DocumentMoniker": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\xmlProducts.xml",
+              "DocumentMoniker": "C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\xmlProducts.xml",
               "RelativeDocumentMoniker": "liptak_bc\\xmlProducts.xml",
-              "ToolTip": "C:\\Users\\majk\\Desktop\\111bakalarka\\c-bc-3\\liptak_bc\\liptak_bc\\xmlProducts.xml",
+              "ToolTip": "C:\\Users\\majk\\Desktop\\finalBC\\liptak_bc\\liptak_bc\\xmlProducts.xml",
               "RelativeToolTip": "liptak_bc\\xmlProducts.xml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAEQCAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
